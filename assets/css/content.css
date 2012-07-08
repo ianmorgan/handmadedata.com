@@ -4,7 +4,6 @@
 	font-size: 24px;
 	padding:10px;
 	border-left: 5px solid #008209;
-
 }
 
 body {
@@ -24,8 +23,13 @@ body {
 	padding:10px;
 }
 
+#footer span {
+	font-size:11px;
+	padding-right:10px; 
+}
 
 
-.debugr {
+
+.debug {
 	border:2px solid red;
 }

@@ -2,5 +2,4 @@
 layout: post
 tags:   hadoop pig
 ---
-This is my blog 
-
+{% include intro.md %}
