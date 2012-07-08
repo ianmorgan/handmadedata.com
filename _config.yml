@@ -4,6 +4,8 @@ server:      false
 server_port: 4000
 baseurl:    /
 url: http://localhost:4000
+ftp_host:   ftp.handmadedata.com
+ftp_dir:    /
 
 source:      .
 destination: ./_site
