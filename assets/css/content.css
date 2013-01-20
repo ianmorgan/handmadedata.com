@@ -17,12 +17,32 @@ body {
 	font-size: 13px;
 	padding:5px;
 	border-left:5px solid #ff77bb;
+	border-top : 0px;
+	padding-top : 4px;
+	border-bottom: 0px;
+	padding-bottom : 4px;
+	
+}
+
+#menu a {
+	padding-top:5px;
+	padding-bottom:5px;
+	padding-left: 2px;
+	padding-right: 2px;
+	color : #585C54;
+}
+
+#menu a:hover {
+	background-color : #ff77bb;
+	color : #484C44;
 }
 
 #menu ul {
+	
 	list-style: none;
 	display: inline;
 	margin-left:0px;
+	padding-bottom:10px;
 }
 
 #menu ul li {
