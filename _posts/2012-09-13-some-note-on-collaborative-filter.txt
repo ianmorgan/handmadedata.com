@@ -1,0 +1,20 @@
+---
+layout: post
+tags:   million_song_challange pig
+disqus: false 
+---
+Some rough notes for now!
+
+For the past few days I've been hacking around getting a [simple Python implementation](http://mewo2.com/kaggle/2012/04/27/the-million-song-dataset-challenge-part-i/) 
+running on my Laptop. Its been a little slow partly because I could get some of the libs needed running 
+with the Apple provided Python on my MacBook. In the end I installed the ActiveState port.  
+
+I've started researching Collaborative filtering algorithms 
+
+
+http://lenskit.grouplens.org/
+
+
+http://semanticvoid.com/blog/2007/02/23/similarity-measure-cosine-similarit
+
+http://www.miislita.com/y-or-euclidean-distance-or-both/

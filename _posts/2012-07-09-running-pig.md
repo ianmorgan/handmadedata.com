@@ -8,7 +8,7 @@ In an earlier post I mentioned [a Pig example](https://github.com/andrewclegg/pi
 at the London Hadoop User Group.
 
 I spent some time setting this up, but bar one missing library, its actually very easy. So, for Hadoop
-and Pig virgins like myself:
+and Pig virgins like myself
 
 1.	**Easy**. You don't need to waste time installing Hadoop, Pig can run in a local mode with an
 embedded Hadoop, and for this smallish dataset, that is sufficient. Just download the latest stable release (I used 0.10.0)

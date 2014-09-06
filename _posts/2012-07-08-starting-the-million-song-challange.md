@@ -3,6 +3,7 @@ layout: post
 tags:   million_song_challange pig
 disqus: false 
 ---
+
 After an excellent presentation on [Pig](http://pig.apache.org/) that used the 
 [Million Song Dataset Challange](http://www.kaggle.com/c/msdchallenge/) on Kaggle as an worked example, 
 I'm inspired to explore this problem a little more. It seems like a good way to understand more about the 
